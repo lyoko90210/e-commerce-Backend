@@ -22,5 +22,6 @@ To connect your Express.js API  PostgreSQL database, use the `pg` and `Sequelize
 
 ## Video Submission
 I have a walkthrough video demonstrating the application's functionality
-
+you can check out here!
+https://youtu.be/WVJMElyi7Ms?si=WsAJ2JQHD5obrBlj
 
